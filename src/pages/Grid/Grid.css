@@ -1,0 +1,14 @@
+.metrics-dashboard {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed */
+}
+
+.metric-card {
+  width: 350px; /* Adjust width as needed */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center;
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
